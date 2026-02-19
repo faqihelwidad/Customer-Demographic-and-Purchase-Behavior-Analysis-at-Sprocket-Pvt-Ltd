@@ -4,7 +4,11 @@ Sprocket Pvt Ltd is a bicycle and accessories retail company with a diverse cust
 
 This project analyzes customer demographic and transaction data over the past three years to identify purchasing patterns, key customer segments, and sales contributors. The results are presented through a dashboard to support data-driven marketing and business decision-making.
 
+An interactive Tableu dashboard used to report can be found [here](https://public.tableau.com/app/profile/faqih.elwidad/viz/NewWorkbook_17683659656180/Dashboard1#1).
+
 # Data Structure & Initial Checks
+
+![ERD](KPMG_ERD.png)
 
 # Executive Summary
 
@@ -12,7 +16,9 @@ The analysis shows that customers aged 31–45 years dominate both customer dist
 
 These findings highlight key demographic segments that should be prioritized in marketing and retention strategies.
 
-#Insights Deep Dive
+![dashboard](KPMG_Dashboard.png)
+
+# Insights Deep Dive
 
 ### Customer Demographics
 
